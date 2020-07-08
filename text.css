@@ -1,0 +1,76 @@
+  h2{
+  background:dodgerblue;
+  margin:0 auto;
+  width:90%;
+  color:white;
+  font-family:verdana;
+  padding:10px;
+  text-align:left;
+  }
+  h1{
+   background:#99ffcc;
+   color:black;
+   margin: 0 auto;
+     width:100%;
+    font:roboto;
+    padding:20px;
+  
+   }
+   h3{
+    background-color: yellow;
+    color: red;
+    margin: 0 auto;
+    width:50%;
+    font-family: verdana;
+    
+   }
+  p.maroon{
+    color:maroon;
+    word-spacing:6px;
+    position: relative;
+   
+
+}
+.container
+{
+	width:80%;
+	margin:0 auto;
+}
+
+}
+#divcontent{
+  margin: 0 auto;
+  width: 80%;
+
+}
+h2:hover{
+  background: red;
+  color:white;
+  font:roboto;
+}
+.img{
+  float: right;
+  width: 1500px;
+  height: 1500px;
+}
+#marquee{
+  box-sizing: border-box;
+  background: grey;
+  box-shadow: 1px;
+  font-family: Verdana;
+  padding: 6px;
+}
+marquee:hover{
+  background-color: black;
+
+}
+p.mq{
+  color:white;
+}
+p.ks{
+  color: dodgerblue;
+  font-weight: 10px;
+  font-family: Roboto;
+  text-align: right;
+}
+
